@@ -1,6 +1,5 @@
 """
 preparation.py
-
 fft
 inverse fft
 calculate frequencies
